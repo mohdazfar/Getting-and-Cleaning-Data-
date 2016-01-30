@@ -1,3 +1,3 @@
 # Getting-and-Cleaning-Data-
-##Getting and Cleaning Data - Course Project
+###Getting and Cleaning Data - Course Project
 
